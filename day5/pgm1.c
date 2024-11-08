@@ -7,7 +7,7 @@ int main() {
     scanf("%d", &n);
 
     int arr[n], freq[n];
-
+x
     printf("Enter the elements of the array:\n");
     for (int i = 0; i < n; i++) {
         scanf("%d", &arr[i]);
